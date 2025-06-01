@@ -107,7 +107,7 @@ There’s a typo in "handNextButton"; a better name would be "handleNextButton".
 
 Some typos in the questions like "Auntarctica" and "Ausia" should be corrected.
 
-
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/2a99384c-1703-4c7d-9641-34931a930775)
 
 ---
 
